@@ -22,7 +22,6 @@ const USER_CONFIG = {
       name: '老公',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oHZCs59yVtGD-A39rb2drp84roj0',
-      id: 'oHZCs56YlH9lIhdNhJMZNvM7nOsY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'PWiIBYGAugqsYMEWUIFGogP2pHE32m-TVx6P2nW0--8',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
